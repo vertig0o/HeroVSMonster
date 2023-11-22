@@ -1,0 +1,14 @@
+E:\DotNetDependencies\bin\Debug\net8.0\DotNetDependencies.exe
+E:\DotNetDependencies\bin\Debug\net8.0\DotNetDependencies.deps.json
+E:\DotNetDependencies\bin\Debug\net8.0\DotNetDependencies.runtimeconfig.json
+E:\DotNetDependencies\bin\Debug\net8.0\DotNetDependencies.dll
+E:\DotNetDependencies\bin\Debug\net8.0\DotNetDependencies.pdb
+E:\DotNetDependencies\obj\Debug\net8.0\DotNetDependencies.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetDependencies\obj\Debug\net8.0\DotNetDependencies.AssemblyInfoInputs.cache
+E:\DotNetDependencies\obj\Debug\net8.0\DotNetDependencies.AssemblyInfo.cs
+E:\DotNetDependencies\obj\Debug\net8.0\DotNetDependencies.csproj.CoreCompileInputs.cache
+E:\DotNetDependencies\obj\Debug\net8.0\DotNetDependencies.dll
+E:\DotNetDependencies\obj\Debug\net8.0\refint\DotNetDependencies.dll
+E:\DotNetDependencies\obj\Debug\net8.0\DotNetDependencies.pdb
+E:\DotNetDependencies\obj\Debug\net8.0\DotNetDependencies.genruntimeconfig.cache
+E:\DotNetDependencies\obj\Debug\net8.0\ref\DotNetDependencies.dll
